@@ -48,7 +48,7 @@ Based on the link of [GeeksforGeeks](http://www.geeksforgeeks.org/must-do-coding
 ### String
 
 - [Parenthesis Checker](http://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
-- Reverse words in a given string
+- [Reverse words in a given string](http://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
 - Permutations of a given string
 - Longest Palindrome in a String
 - Recursively remove all adjacent duplicates
